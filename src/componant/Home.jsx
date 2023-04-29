@@ -29,7 +29,7 @@ const Home = () => {
       </div>
       <div className="home2" id="about">
         <div>
-          <h1>Who we are</h1>
+          <h1>Who we are?</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
             soluta doloremque dolor labore eveniet beatae repudiandae
